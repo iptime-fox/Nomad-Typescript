@@ -1,1 +1,3 @@
-// type of
+// typescript
+
+// types of ts part one
